@@ -12,7 +12,7 @@
 在该类中有一个属性List<Songs> songOfAllUser用于将所有用户的歌曲集合，然后有randomSong方法设置随机播放列表中的歌曲，还可以通过chooseSong方法来选择列表中某一首歌来播放
 <h2>MainCtrl类</h2><hr/>
 这是程序的入口
-、、、
+...
   public static void main(String[] args) {
 		Host host=new Host();//创建一个主持人类，用于管理所有用户的歌曲
 		System.out.print("请输入总共点歌的人数：");
@@ -47,4 +47,4 @@
 		}
 
 	}
-、、、
+...
