@@ -4,6 +4,7 @@
 <hr/>
 <p style="text-indent:2em">本程序主要功能是：允许多个用户点歌，而且每个用户可以点几首歌，最后由主持人集合所有用户点歌曲，并有权力选择性的播放某一首歌曲，或者选择随机播放,先看运行结果的效果</p>
 <div align=center><img src="https://github.com/xyygudu/SingSongs/blob/master/images/V%252S5~OSUZE)0PQNRLBK93Y.png" width="500"  alt="图片加载失败"/></div>
+<input type="submit" value="提交"/>
 <h2>Songs类</h2><hr/>
 在该类中，定义了歌曲的属性：歌名、作者、和歌曲时间，其中歌曲时间是用随机数表示的（为了方便）当开辟类对象时，对Songs进行初始化，也可以理解为创造了一首歌曲，这个类中有两个函数，作用分别是获取歌曲名和作者
 <h2>User类</h2><hr/>
